@@ -1,0 +1,23 @@
+{
+  "name": "studio-clock",
+  "version": "0.0.1",
+  "description": "A simple studio clock with keyboard controllable indicators",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "broadcast",
+    "studio",
+    "clock",
+    "monitor",
+    "display"
+  ],
+  "author": "Ross Wilson <me@rosswilson.co.uk>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "ws": "^1.1.1"
+  }
+}
