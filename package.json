@@ -17,6 +17,6 @@
   "author": "Ross Wilson <me@rosswilson.co.uk>",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.17.1"
   }
 }
